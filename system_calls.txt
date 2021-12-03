@@ -1,0 +1,11 @@
+chdir -> Exibe o nome da pasta ou altera a pasta atual
+chmod -> Muda a permissões de um arquivo
+chwn -> Muda as propriedade de um arquivo
+copy_file_range -> Copie uma série de dados de um arquivo para outro
+mkdir -> Cria um diretório
+fchdir -> Muda o diretório de trabalho
+readdir -> Read directory entry
+rmdir -> remove um diretório
+close -> Fecha um descritor de arquivo
+open -> Abre e possivelmente cria um arquivo
+write -> Escreve para um descritor de arquivo
